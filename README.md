@@ -8,8 +8,6 @@ I'm a high school senior, applying for colleges and looking for an internship
 - I’m working on training a machine learning model for Coral which will be used in [Photonvision](https://github.com/photonvision/photonvision)
 - Ask me about anything, I am happy to help;
 
-</br>
-
 ---
 
 📈 **My GitHub Stats:**
