@@ -1,4 +1,4 @@
-I'm a high school senior, applying for colleges and looking for an internship
+I'm a high school senior, in the middle of robotics season
 
 ---
 
