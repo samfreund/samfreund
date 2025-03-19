@@ -5,8 +5,8 @@ I'm a high school senior, applying for colleges and looking for an internship
 **About Me:**
 
 - I’m currently building a robot, see the code at [Masha 2025](https://github.com/milwaukeecybercheese/masha2025)
-- I’m working on training a machine learning model for Coral which will be used in [Photonvision](https://github.com/photonvision/photonvision)
-- Ask me about anything, I am happy to help;
+- I'm also doing some research into password security, more to come later
+- Ask me about anything, I am happy to help
 
 ---
 
