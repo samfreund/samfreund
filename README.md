@@ -1,11 +1,10 @@
-I'm a high school senior, in the middle of robotics season
+I'm a high school senior, FRC alum, and developer for [photonvision](https://github.com/photonvision)
 
 ---
 
 **About Me:**
 
-- I’m currently building a robot, see the code at [Masha 2025](https://github.com/milwaukeecybercheese/masha2025)
-- I'm also doing some research into password security, more to come later
+- I’m currently working on object detection on the Rubik PI NPU. 
 - Ask me about anything, I am happy to help
 
 ---
