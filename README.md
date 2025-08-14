@@ -1,4 +1,4 @@
-I'm a high school senior, FRC alum, and developer for [photonvision](https://github.com/photonvision)
+B.S. Computer Science at MSOE, FRC alum, and developer for [photonvision](https://github.com/photonvision)
 
 ---
 
