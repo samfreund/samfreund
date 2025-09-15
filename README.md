@@ -4,7 +4,7 @@ B.S. Computer Science at MSOE, FRC alum, and developer for [photonvision](https:
 
 **About Me:**
 
-- I’m currently working on object detection on the Rubik PI NPU. 
+- I’m currently joining various teams, many of which I probably don't have time for.
 - Ask me about anything, I am happy to help
 
 ---
