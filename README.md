@@ -1,4 +1,4 @@
-B.S. Computer Science at MSOE, NASA Lunabotics Control Lead, lead Developer and Maintainer for [photonvision](https://github.com/photonvision), and FRC Alum
+B.S. Computer Science at MSOE, NASA Lunabotics Control Lead, Developer and Maintainer for [PhotonVision](https://github.com/photonvision), and FRC Alum
 
 ---
 
